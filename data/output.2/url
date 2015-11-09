@@ -1,0 +1,808 @@
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15647&pid=6462&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15451&pid=6160&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15647&pid=6462&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15439&pid=6112&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://shop.meilishuo.com/train; httpCode=-1; value=商家培训
+|--http://zhaoshang.meilishuo.com/business/help; httpCode=200; value=帮助中心
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://shop.meilishuo.com/train; httpCode=-1; value=商家培训
+|--http://zhaoshang.meilishuo.com/business; httpCode=200; value=商家入驻
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+https://shop.meilishuo.com/user/login/; httpCode=-1; value=我要入驻
+|--http://zhaoshang.meilishuo.com/business; httpCode=200; value=商家入驻
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15445&pid=6200&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/member/main/; httpCode=200; value=					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+https://shop.meilishuo.com/user/login/; httpCode=-1; value=马上申请
+|--http://zhaoshang.meilishuo.com/business; httpCode=200; value=商家入驻
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/member/member; httpCode=200; value=								积分兑换							
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6068&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=羽绒服
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15647&pid=6462&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6076&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=毛衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=查看关注
+|--http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=查看关注
+|--http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/club/recommend; httpCode=404; value=查看回复我的
+|--http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15439&pid=6112&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6076&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=毛衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15451&pid=6160&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6066&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=全部
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15451&pid=6160&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6066&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=全部
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6082&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=衬衫
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6088&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=内衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/client/?frm=daeh; httpCode=200; value=					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6074&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=大衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/like; httpCode=404; value=查看喜欢我的
+|--http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6084&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=T恤
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6082&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=衬衫
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sbase=4&sort=sale_asc#mp_firlook; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sbase=4&sort=sale_asc#mp_firlook; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sbase=4&sort=sale_asc#mp_firlook; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15439&pid=6112&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6084&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=T恤
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6074&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=大衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u/273823537?type=share; httpCode=200; value=我的分享
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6086&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=针织衫
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6088&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=内衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6088&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=内衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6080&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=套装
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6074&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=大衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15445&pid=6200&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6076&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=毛衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sort=default#mp_firlook; httpCode=200; value=默认
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6080&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=套装
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/search?searchKey=%E5%A5%97%E8%A3%85&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%A5%97%E8%A3%85; httpCode=200; value=						套装					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6082&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=衬衫
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6072&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=外套
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6066&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=全部
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15445&pid=6200&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6068&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=羽绒服
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6084&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=T恤
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6080&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=套装
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6072&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=外套
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/search?searchKey=%E5%A5%97%E8%A3%85&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%A5%97%E8%A3%85; httpCode=200; value=						套装					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/club/recommend; httpCode=404; value=查看回复我的
+|--http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6068&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=羽绒服
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sort=default#mp_firlook; httpCode=200; value=默认
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/like; httpCode=404; value=查看喜欢我的
+|--http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/search?searchKey=%E5%A5%97%E8%A3%85&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%A5%97%E8%A3%85; httpCode=200; value=						套装					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sbase=3&sort=price_asc#mp_firlook; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537?type=editor; httpCode=200; value=我的杂志
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/search?searchKey=%E5%8D%AB%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%8D%AB%E8%A1%A3; httpCode=200; value=						卫衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6070&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=棉衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sbase=3&sort=price_asc#mp_firlook; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/search?searchKey=%E5%8D%AB%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%8D%AB%E8%A1%A3; httpCode=200; value=						卫衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://www.meilishuo.com/share/item/3803514773; httpCode=404; value=
+|--http://promotion.meilishuo.com/order; httpCode=200; value=	我的订单					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/aboutus/contactus?sl=h3; httpCode=200; value=联系我们
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6070&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=棉衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sbase=3&sort=price_asc#mp_firlook; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6086&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=针织衫
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/help/; httpCode=200; value=新手指南
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/guang/catalog/food?nid=222649&cata_id=10000000000000&frm=daeh; httpCode=200; value=						食品					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/search?searchKey=%E5%8D%AB%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%8D%AB%E8%A1%A3; httpCode=200; value=						卫衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/guang/catalog/food?nid=222649&cata_id=10000000000000&frm=daeh; httpCode=200; value=						食品					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/guang/hot?frm=daeh; httpCode=200; value=						最热					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u/273823537?frm=headerprofile; httpCode=200; value=						qzone_张尤长					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6070&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=棉衣
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6086&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=针织衫
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/pickup; httpCode=200; value=美丽说拾宝工具
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/guang/hot?frm=daeh; httpCode=200; value=						最热					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://www.meilishuo.com/share/item/3803514773; httpCode=404; value=纯色印花图案插肩袖女T恤
+|--http://promotion.meilishuo.com/order; httpCode=200; value=	我的订单					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/search?searchKey=%E6%AF%9B%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E6%AF%9B%E8%A1%A3; httpCode=200; value=						毛衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/search?searchKey=%E5%8D%AB%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%8D%AB%E8%A1%A3; httpCode=200; value=						卫衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?pid=6066&cid=15435&aid=2318&mid=415&nid=2&sort=default#mp_firlook; httpCode=200; value=默认
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/guang/catalog/jiaju?nid=210107&cata_id=9000000000000&frm=daeh; httpCode=200; value=						家居					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://www.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://www.meilishuo.com/helpcenter/; httpCode=200; value=帮助中心
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/search?searchKey=%E6%AF%9B%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E6%AF%9B%E8%A1%A3; httpCode=200; value=						毛衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/aboutus/joinus?sl=h3; httpCode=200; value=加入美丽说
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/search?searchKey=%E6%AF%9B%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E6%AF%9B%E8%A1%A3; httpCode=200; value=						毛衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/aboutus?sl=h3; httpCode=200; value=关于美丽说
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_1501/act119/#coupon_rg; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/guang/catalog/food?nid=222649&cata_id=10000000000000&frm=daeh; httpCode=200; value=						食品					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/guang/catalog/jiaju?nid=210107&cata_id=9000000000000&frm=daeh; httpCode=200; value=						家居					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/guang/catalog/jiaju?nid=210107&cata_id=9000000000000&frm=daeh; httpCode=200; value=						家居					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act/33; httpCode=404; value=申请成为达人
+|--http://promotion.meilishuo.com/help/; httpCode=200; value=新手指南
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/guang/hot?frm=daeh; httpCode=200; value=						最热					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+https://shop.meilishuo.com/order/?buyer_nickname; httpCode=-1; value=
+|--http://promotion.meilishuo.com/im/; httpCode=200; value=客服消息		
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=0; value=
+|--http://promotion.meilishuo.com/search?searchKey=%E5%A5%97%E8%A3%85&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E5%A5%97%E8%A3%85; httpCode=200; value=						套装					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u/273823537; httpCode=200; value=qzone_张尤长
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://www.meilishuo.com/share/item; httpCode=404; value=
+|--http://promotion.meilishuo.com/im/; httpCode=200; value=客服消息		
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/guang/catalog/food?nid=222649&cata_id=10000000000000&frm=daeh; httpCode=200; value=						食品					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/guang/catalog/jiaju?nid=210107&cata_id=9000000000000&frm=daeh; httpCode=200; value=						家居					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/search?searchKey=%E6%AF%9B%E8%A1%A3&searchType=1&filter=goods&frm=searchsuggestion&suggest_frm&pstrc=fe_pos%3A_search%3D%E6%AF%9B%E8%A1%A3; httpCode=200; value=						毛衣					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15449&pid=6138&mid=415&nid=2; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/im/; httpCode=200; value=客服消息		
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://www.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://www.meilishuo.com/member/main/; httpCode=200; value=&nbsp;
+|----http://order.meilishuo.com/coupon/?page=0&coupon_type=1&status=all; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/guang/hot?frm=daeh; httpCode=200; value=						最热					
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?cid=15435&pid=6072&aid=2318&mid=415&nid=2&sbase=&sort=default#mp_firlook; httpCode=200; value=外套
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/help/return/; httpCode=200; value=服务保障
+|----http://promotion.meilishuo.com/member/main/; httpCode=200; value=					
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=粉丝
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/board; httpCode=404; value=置
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15447&pid=6222&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15443&pid=6178&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_1511/act11/?topitem=15939&topshop=15843; httpCode=200; value=
+|------http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/ur/fans; httpCode=404; value=
+|--http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15437&pid=6090&mid=415&nid=2; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/act; httpCode=404; value=#
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2; httpCode=200; value=pc
+
+http://promotion.meilishuo.com/share; httpCode=404; value=条评论...
+|--http://promotion.meilishuo.com/person/u; httpCode=200; value=
+|----http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=

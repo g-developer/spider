@@ -1,0 +1,19 @@
+[url_entry]
+;pc = http://pro.meilishuo.com
+;pc = http://www.meilishuo.com/
+pc = http://promotion.meilishuo.com/promotion/sale_pro/act_venue/?aid=2318&cid=15435&pid=6066&mid=415&nid=2
+;wap = http://m.meilishuo.com/
+;test = http://d02.res.meilishuo.net/ap/a/de/53/cd86100dfb20cf74ec5c3938c135_200_200.jpg
+[thread]
+http_num = 500
+queue_capacity = 100000000
+[output]
+fail_dir = ./data/output
+[filters]
+0 = shop_id
+1 = res.meilishuo.net
+2 = i.meilishuo.net
+3 = s.meilishuo.net
+4 = mailto:kf
+5 = @meilishuo.com
+6 = shop.meilishuo.com

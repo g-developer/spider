@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src
+END
+ConfReader.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src/ConfReader.py
+END
+.Url_Producer.py.swo
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src/.Url_Producer.py.swo
+END
+SB_Spider_Url.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src/SB_Spider_Url.py
+END
+SB_Spider_Producer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src/SB_Spider_Producer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src/__init__.py
+END
+SB_Spider_Consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/481636/qa/zhangyouchang/spider/src/SB_Spider_Consumer.py
+END
